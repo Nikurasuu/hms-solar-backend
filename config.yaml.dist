@@ -1,0 +1,6 @@
+broker:
+  host: ""
+  port: 
+  clientid: "hms-solar-backend"
+server:
+  port: 8080
